@@ -1,0 +1,20 @@
+A standard bingo card typically contains 24 numbers arranged in a 5x5 grid, with the center space often marked as a free space. Each column is labeled with a letter corresponding to the word "BINGO," with a range of numbers under each letter: B (1-15), I (16-30), N (31-45), G (46-60), and O (61-75).
+
+
+
+Bingo Caller: https://letsplaybingo.io/
+
+
+Number Generators for each letter: 
+
+W - https://numbergenerator.org/randomnumbergenerator/lottery#!numbers=5&low=1&high=15&unique=true&csv=&oddeven=&oddqty=0&sorted=false&addfilters=
+
+
+I - https://numbergenerator.org/randomnumbergenerator/lottery#!numbers=5&low=16&high=30&unique=true&csv=&oddeven=&oddqty=0&sorted=false&addfilters=
+
+L - https://numbergenerator.org/randomnumbergenerator/lottery#!numbers=4&low=31&high=45&unique=true&csv=&oddeven=&oddqty=0&sorted=false&addfilters=
+
+E - https://numbergenerator.org/randomnumbergenerator/lottery#!numbers=5&low=46&high=60&unique=true&csv=&oddeven=&oddqty=0&sorted=false&addfilters=
+
+Y - https://numbergenerator.org/randomnumbergenerator/lottery#!numbers=5&low=61&high=75&unique=true&csv=&oddeven=&oddqty=0&sorted=false&addfilters=
+
